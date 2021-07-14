@@ -104,7 +104,7 @@ function App() {
           </tbody>
         </Table>
 
-        <h2 className="text-center text-white py-4 mb-0">Make your own here</h2>
+        <h2 className="text-center text-white py-4 mb-0">Make your own <a href="https://github.com/arn4b/timetable" >here</a></h2>
       </Container>
     </div>
   );
