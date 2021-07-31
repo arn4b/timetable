@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Table, Container, Row, Col } from 'react-bootstrap'
+import tt from './tt.jpg'
 
 function App() {
   return (
@@ -103,6 +104,8 @@ function App() {
             </tr>
           </tbody>
         </Table>
+
+        <img src={tt}className="img-fluid"/>
 
         <h2 className="text-center text-white py-4 mb-0">Make your own <a href="https://github.com/arn4b/timetable" >here</a></h2>
       </Container>
