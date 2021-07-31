@@ -40,14 +40,14 @@ function App() {
               <td colSpan="2">
                 <a href="https://mail.google.com/mail/u/1/#inbox">CN LAB [KIIT MAIL]</a></td>
               <td>IOT - Mnideepa Roy [WHATSAPP]</td>
-              <td><a href="https://meet.google.com/wpk-mbbw-mug">SE - Kunal Anand</a></td>
+              <td><a href="https://meet.google.com/wpk-mbbw-mug?pli=1&authuser=1">SE - Kunal Anand</a></td>
             </tr>
             <tr className="text-center align-middle">
               <td>Tuesday</td>
               <td>
                 <a href="https://us02web.zoom.us/j/84990893588?pwd=b1ppb0pkNmYvUjdYMVRZV3YzZXQ2QT09">AI - Junali Jasmine</a></td>
               <td>-</td>
-              <td><a href="https://meet.google.com/siu-yzdw-aay">SE - Kunal Anand</a></td>
+              <td><a href="https://meet.google.com/siu-yzdw-aay?pli=1&authuser=1">SE - Kunal Anand</a></td>
                             
               <td>-</td>
               <td>-</td>
@@ -83,7 +83,7 @@ function App() {
                 ML - Suresh Chandra Satapathy
                 </a>
                 </td>
-              <td><a href="https://meet.google.com/spo-qspp-jhi">SE - Kunal Anand</a></td>
+              <td><a href="https://meet.google.com/spo-qspp-jhi?pli=1&authuser=1">SE - Kunal Anand</a></td>
               <td>IOT - Mnideepa Roy [WHATSAPP]</td>
               <td>-</td>
               <td>-</td>
@@ -95,7 +95,7 @@ function App() {
               </td>
               <td>
                 <a href="https://us02web.zoom.us/j/84990893588?pwd=b1ppb0pkNmYvUjdYMVRZV3YzZXQ2QT09">AI - Junali Jasmine</a></td>
-              <td><a href="https://meet.google.com/tdu-ravk-wxe">SE - Kunal Anand</a></td>
+              <td><a href="https://meet.google.com/tdu-ravk-wxe?pli=1&authuser=1">SE - Kunal Anand</a></td>
               <td>-</td>
               <td>-</td>
               <td>
