@@ -35,7 +35,7 @@ function App() {
                 </td>
               
               <td>
-                <a href="https://meet.google.com/nno-piab-awr?authuser=1&pli=1">CN - Ayaskanta Mishra</a>
+                <a href="https://mail.google.com/mail/u/1/#inbox">CN - Ayaskanta Mishra</a>
               </td>
               <td colSpan="2">
                 <a href="https://mail.google.com/mail/u/1/#inbox">CN LAB [KIIT MAIL]</a></td>
@@ -55,7 +55,7 @@ function App() {
                 <a href="https://meet.google.com/mdq-sfhk-vmh?pli=1&authuser=1">NLP - Biraja Isac</a>
               </td>
               <td>
-                <a href="https://meet.google.com/nno-piab-awr?authuser=1&pli=1">CN - Ayaskanta Mishra</a>
+                <a href="https://mail.google.com/mail/u/1/#inbox">CN - Ayaskanta Mishra</a>
               </td>
             </tr>
             <tr className="text-center align-middle">
@@ -91,7 +91,7 @@ function App() {
             <tr className="text-center align-middle">
               <td>Friday</td>
                             <td>
-                <a href="https://meet.google.com/nno-piab-awr?authuser=1&pli=1">CN - Ayaskanta Mishra</a>
+                <a href="https://mail.google.com/mail/u/1/#inbox">CN - Ayaskanta Mishra</a>
               </td>
               <td>
                 <a href="https://us02web.zoom.us/j/84990893588?pwd=b1ppb0pkNmYvUjdYMVRZV3YzZXQ2QT09">AI - Junali Jasmine</a></td>
