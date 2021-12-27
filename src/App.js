@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Container>
-      <h1 className="py-4 text-white">TIME TABLE - 5th SEMESTER [CSSE G1]</h1>
+      <h1 className="py-4 text-white">TIME TABLE - 6th SEMESTER [CSSE]</h1>
         
         <Table className="tablee" striped bordered hover variant="dark" responsive>
           <thead>
@@ -26,81 +26,114 @@ function App() {
           <tbody>
             <tr className="text-center align-middle">
               <td>Monday</td>
-              <td>-</td>
-              
               <td>
-              <a href="https://meet.google.com/lookup/db5ettg7nw?authuser=1&hs=179">
-                ML - Suresh Chandra Satapathy
+              <a href="https://meet.google.com/nfv-uvje-oky?pli=1&authuser=1">
+                BD
                 </a>
                 </td>
               
               <td>
-                <a href="https://meet.google.com/nno-piab-awr?authuser=1&pli=1">CN - Ayaskanta Mishra</a>
+              <a href="https://meet.google.com/puf-ttmd-kfo?pli=1&authuser=1">
+                DMDW
+                </a>
+                </td>
+              <td colSpan="3">
+                <a href="https://mail.google.com/mail/u/1/#inbox">T&T LAB [KIIT MAIL]</a></td>
+
+              <td>
+                <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
+                  ESDA
+                </a>
               </td>
-              <td colSpan="2">
-                <a href="https://mail.google.com/mail/u/1/#inbox">CN LAB [KIIT MAIL]</a></td>
-              <td>IOT - Mnideepa Roy [WHATSAPP]</td>
-              <td><a href="https://meet.google.com/wpk-mbbw-mug?pli=1&authuser=1">SE - Kunal Anand</a></td>
+
+              <td>-</td>
             </tr>
             <tr className="text-center align-middle">
               <td>Tuesday</td>
               <td>
-                <a href="https://us02web.zoom.us/j/84990893588?pwd=b1ppb0pkNmYvUjdYMVRZV3YzZXQ2QT09">AI - Junali Jasmine</a></td>
-              <td>-</td>
-              <td><a href="https://meet.google.com/siu-yzdw-aay?pli=1&authuser=1">SE - Kunal Anand</a></td>
+                <a href="https://meet.google.com/cxd-agij-ova?pli=1&authuser=1">ADBMS</a></td>
+                <td><a href="meet.google.com/cry-xoif-qcp">CC</a></td>
+
+              <td>
+                <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
+                  ESDA
+                </a>
+              </td>
                             
+              <td>
+              <a href="https://meet.google.com/nfv-uvje-oky?pli=1&authuser=1">
+                BD
+                </a>
+                </td>
               <td>-</td>
               <td>-</td>
-              <td>
-                <a href="https://meet.google.com/mdq-sfhk-vmh?pli=1&authuser=1">NLP - Biraja Isac</a>
-              </td>
-              <td>
-                <a href="https://meet.google.com/nno-piab-awr?authuser=1&pli=1">CN - Ayaskanta Mishra</a>
-              </td>
+              <td>-</td>
             </tr>
             <tr className="text-center align-middle">
               <td>Wednesday</td>
+              <td colSpan="2">
+                <a href="https://meet.google.com/zdf-wqmg-qcn?pli=1&authuser=1">CC LAB</a></td>
+
               <td>
-                <a href="https://meet.google.com/mdq-sfhk-vmh?pli=1&authuser=1">NLP - Biraja Isac</a></td>
-              <td>
-                <a href="https://us02web.zoom.us/j/84990893588?pwd=b1ppb0pkNmYvUjdYMVRZV3YzZXQ2QT09">AI - Junali Jasmine</a></td>
-                            <td>
-              <a href="https://meet.google.com/lookup/db5ettg7nw?authuser=1&hs=179">
-                ML - Suresh Chandra Satapathy
+              <a href="https://meet.google.com/cxd-agij-ova?pli=1&authuser=1">
+                ADBMS
                 </a>
                 </td>
-              <td>IOT - Mnideepa Roy [WHATSAPP]</td>
+                <td>
+                <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
+                  ESDA
+                </a>
+              </td>
               <td>-</td>
               <td>-</td>
-              <td><a href="https://meet.google.com/ttu-egxg-kqt?pli=1&authuser=1">AP LAB</a></td>
+              <td><a href="https://meet.google.com/ytf-pwed-ibi?pli=1&authuser=1">Proj Mgmt. 4:30</a></td>
             </tr>
             <tr className="text-center align-middle">
               <td>Thursday</td>
-              <td>-</td>
-              <td>-</td>
-                            <td>
-              <a href="https://meet.google.com/lookup/db5ettg7nw?authuser=1&hs=179">
-                ML - Suresh Chandra Satapathy
+              <td>
+              <a href="https://meet.google.com/puf-ttmd-kfo?pli=1&authuser=1">
+                DMDW
                 </a>
                 </td>
-              <td><a href="https://meet.google.com/spo-qspp-jhi?pli=1&authuser=1">SE - Kunal Anand</a></td>
-              <td>IOT - Mnideepa Roy [WHATSAPP]</td>
+                <td>
+                <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
+                  ESDA
+                </a>
+              </td>
+              <td>
+              <a href="https://meet.google.com/npn-zfuj-ezf?pli=1&authuser=1">
+                CC
+                </a>
+                </td>
+              <td>-</td>
+              <td>-</td>
               <td>-</td>
               <td>-</td>
             </tr>
             <tr className="text-center align-middle">
               <td>Friday</td>
-                            <td>
-                <a href="https://meet.google.com/nno-piab-awr?authuser=1&pli=1">CN - Ayaskanta Mishra</a>
+              <td>
+                <a href="https://meet.google.com/wrz-zowt-qbt?pli=1&authuser=1">CC</a>
               </td>
               <td>
-                <a href="https://us02web.zoom.us/j/84990893588?pwd=b1ppb0pkNmYvUjdYMVRZV3YzZXQ2QT09">AI - Junali Jasmine</a></td>
-              <td><a href="https://meet.google.com/tdu-ravk-wxe?pli=1&authuser=1">SE - Kunal Anand</a></td>
-              <td>-</td>
+              <a href="https://meet.google.com/puf-ttmd-kfo?pli=1&authuser=1">
+                DMDW
+                </a>
+                </td>
+                <td>
+                <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
+                  ESDA
+                </a>
+              </td>
+              <td><a href="https://meet.google.com/cxd-agij-ova?pli=1&authuser=1">ADBMS</a></td>
+
               <td>-</td>
               <td>
-                <a href="https://meet.google.com/mdq-sfhk-vmh?pli=1&authuser=1">NLP - Biraja Isac</a></td>
-              <td>-</td>
+              <a href="https://meet.google.com/nfv-uvje-oky?pli=1&authuser=1">
+                BD
+                </a>
+                </td>
+                <td><a href="https://meet.google.com/ytf-pwed-ibi?pli=1&authuser=1">Proj Mgmt. 4:30</a></td>
             </tr>
           </tbody>
         </Table>
