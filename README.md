@@ -12,4 +12,4 @@ To make this timetable according to your classes and teachers
 
 * Host the site on GitHub pages / CloudFlare Pages / Vercel / Netlify / Heroku.
 
-* 5th sem go brrrrrrrr
+* 6th sem go brrrrrrrr
