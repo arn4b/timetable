@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Table, Container, Row, Col } from 'react-bootstrap'
-import tt from './tt.jpg'
+import tt from './tt.png'
 
 function App() {
   return (
