@@ -3,12 +3,13 @@
 .App {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
-  background-color: black;
+  background: linear-gradient(180deg, #000346 0%, #FF0000 100%), linear-gradient(58.72deg, #0029FF 0%, #AA0014 100%), radial-gradient(100% 164.72% at 100% 100%, #FF00A8 0%, #00FF47 100%), radial-gradient(100% 148.07% at 0% 0%, #FFF500 0%, #51D500 100%);
+background-blend-mode: overlay, overlay, difference, normal;
+  height: 100vh;
+  display: flex;
 }
 
-.tablee {
-  border-radius: 1rem;
-}
+
 .App-logo {
   height: 4rem;
   pointer-events: none;
@@ -18,6 +19,13 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.tt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
 }
 
 

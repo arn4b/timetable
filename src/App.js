@@ -7,7 +7,7 @@ import tt from './tt.png'
 function App() {
   return (
     <div className="App">
-      <Container>
+      <Container className='tt'>
       <h1 className="py-4 text-white">TIME TABLE - 6th SEMESTER [CSSE]</h1>
         
         <Table className="tablee" striped bordered hover variant="dark" responsive>
@@ -66,8 +66,8 @@ function App() {
                 </a>
                 </td>
               <td>-</td>
-              <td>-</td>
-              <td>-</td>
+              <td>APTI</td>
+              <td>TECH</td>
             </tr>
             <tr className="text-center align-middle">
               <td>Wednesday</td>
@@ -107,8 +107,8 @@ function App() {
                 </td>
               <td>-</td>
               <td>-</td>
-              <td>-</td>
-              <td>-</td>
+              <td>APTI</td>
+              <td>TECH</td>
             </tr>
             <tr className="text-center align-middle">
               <td>Friday</td>
@@ -138,7 +138,7 @@ function App() {
           </tbody>
         </Table>
 
-        <img src={tt}className="img-fluid"/>
+        {/* <img src={tt}className="img-fluid"/> */}
 
         <h2 className="text-center text-white py-4 mb-0">Make your own <a href="https://github.com/arn4b/timetable" >here</a></h2>
       </Container>
