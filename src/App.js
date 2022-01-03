@@ -40,11 +40,7 @@ function App() {
               <td colSpan="3">
                 <a href="https://mail.google.com/mail/u/1/#inbox">T&T LAB [KIIT MAIL]</a></td>
 
-              <td>
-                <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
-                  ESDA
-                </a>
-              </td>
+              <td>-</td>
 
               <td>-</td>
             </tr>
@@ -66,8 +62,8 @@ function App() {
                 </a>
                 </td>
               <td>-</td>
-              <td>APTI</td>
-              <td>TECH</td>
+              <td>-</td>
+              <td>-</td>
             </tr>
             <tr className="text-center align-middle">
               <td>Wednesday</td>
@@ -107,8 +103,8 @@ function App() {
                 </td>
               <td>-</td>
               <td>-</td>
-              <td>APTI</td>
-              <td>TECH</td>
+              <td>-</td>
+              <td>-</td>
             </tr>
             <tr className="text-center align-middle">
               <td>Friday</td>
@@ -120,11 +116,7 @@ function App() {
                 DMDW
                 </a>
                 </td>
-                <td>
-                <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
-                  ESDA
-                </a>
-              </td>
+                <td>-</td>
               <td><a href="https://meet.google.com/cxd-agij-ova?pli=1&authuser=1">ADBMS</a></td>
 
               <td>-</td>
