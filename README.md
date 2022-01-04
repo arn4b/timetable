@@ -1,4 +1,6 @@
-## Time Table for 5th sem
+## Time Table for 6th sem
+
+![ah-shit-here-we-go-again-ah-shit](https://user-images.githubusercontent.com/60937304/148077901-e093f518-101d-4af3-8fcd-9401f8568398.gif)
 
 To make this timetable according to your classes and teachers
 
