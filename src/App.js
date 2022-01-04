@@ -48,7 +48,7 @@ function App() {
               <td>Tuesday</td>
               <td>
                 <a href="https://meet.google.com/cxd-agij-ova?pli=1&authuser=1">ADBMS</a></td>
-                <td><a href="meet.google.com/cry-xoif-qcp">CC</a></td>
+                <td><a href="https://meet.google.com/cry-xoif-qcp?pli=1&authuser=1">CC</a></td>
 
               <td>
                 <a href="https://meet.google.com/wiu-bopd-fiw?pli=1&authuser=1">
