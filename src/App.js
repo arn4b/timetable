@@ -38,7 +38,7 @@ function App() {
                 </a>
                 </td>
               <td colSpan="3">
-                <a href="https://mail.google.com/mail/u/1/#inbox">T&T LAB [KIIT MAIL]</a></td>
+                <a href="https://meet.google.com/gjd-nngf-nvw?pli=1&authuser=1">T&T LAB</a></td>
 
               <td>-</td>
 
